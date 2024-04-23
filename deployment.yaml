@@ -15,5 +15,5 @@ spec:
         app: dema-deploy
     spec:
       containers:
-      - image: deyma97/tiger:latest
+      - image: deyma97/tiger:28
         name: pet
